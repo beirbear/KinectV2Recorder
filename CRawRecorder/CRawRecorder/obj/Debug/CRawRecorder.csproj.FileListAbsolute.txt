@@ -1,0 +1,16 @@
+C:\Users\Beir\Google Drive\Code\CRawRecorder\CRawRecorder\bin\Debug\CRawRecorder.exe.config
+C:\Users\Beir\Google Drive\Code\CRawRecorder\CRawRecorder\obj\Debug\CRawRecorder.csprojResolveAssemblyReference.cache
+C:\Users\Beir\Google Drive\Code\CRawRecorder\CRawRecorder\obj\Debug\MainWindow.baml
+C:\Users\Beir\Google Drive\Code\CRawRecorder\CRawRecorder\obj\Debug\MainWindow.g.cs
+C:\Users\Beir\Google Drive\Code\CRawRecorder\CRawRecorder\obj\Debug\App.g.cs
+C:\Users\Beir\Google Drive\Code\CRawRecorder\CRawRecorder\obj\Debug\CRawRecorder_MarkupCompile.cache
+C:\Users\Beir\Google Drive\Code\CRawRecorder\CRawRecorder\obj\Debug\CRawRecorder.g.resources
+C:\Users\Beir\Google Drive\Code\CRawRecorder\CRawRecorder\obj\Debug\CRawRecorder.Properties.Resources.resources
+C:\Users\Beir\Google Drive\Code\CRawRecorder\CRawRecorder\obj\Debug\CRawRecorder.csproj.GenerateResource.Cache
+C:\Users\Beir\Google Drive\Code\CRawRecorder\CRawRecorder\bin\Debug\CRawRecorder.exe
+C:\Users\Beir\Google Drive\Code\CRawRecorder\CRawRecorder\bin\Debug\CRawRecorder.pdb
+C:\Users\Beir\Google Drive\Code\CRawRecorder\CRawRecorder\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Beir\Google Drive\Code\CRawRecorder\CRawRecorder\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Beir\Google Drive\Code\CRawRecorder\CRawRecorder\obj\Debug\CRawRecorder.exe
+C:\Users\Beir\Google Drive\Code\CRawRecorder\CRawRecorder\obj\Debug\CRawRecorder.pdb
+C:\Users\Beir\Google Drive\Code\CRawRecorder\CRawRecorder\obj\Debug\CRawRecorder_MarkupCompile.lref
